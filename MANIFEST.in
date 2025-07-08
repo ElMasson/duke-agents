@@ -1,6 +1,8 @@
 include README.md
 include LICENSE
 include CHANGELOG.md
+include CONTRIBUTING.md
+include AUTHORS
 include requirements.txt
 include requirements-dev.txt
 recursive-include src/duke_agents *.py

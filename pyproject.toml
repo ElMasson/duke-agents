@@ -66,7 +66,7 @@ docs = [
 
 [project.urls]
 Homepage = "https://github.com/elmasson/duke-agents"
-Documentation = "https://duke-agents.readthedocs.io"
+Documentation = "https://github.com/elmasson/duke-agents/tree/main/docs"
 Repository = "https://github.com/elmasson/duke-agents.git"
 Issues = "https://github.com/elmasson/duke-agents/issues"
 Changelog = "https://github.com/elmasson/duke-agents/blob/main/CHANGELOG.md"

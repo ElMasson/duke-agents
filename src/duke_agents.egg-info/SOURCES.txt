@@ -1,4 +1,6 @@
+AUTHORS
 CHANGELOG.md
+CONTRIBUTING.md
 LICENSE
 MANIFEST.in
 README.md
@@ -7,9 +9,14 @@ requirements-dev.txt
 requirements.txt
 setup.cfg
 setup.py
+docs/README.md
 docs/api_reference.md
+docs/concepts.md
 docs/examples.md
 docs/getting_started.md
+docs/index.rst
+docs/installation.md
+docs/quickstart.md
 examples/advanced_usage.py
 examples/advanced_workflow.py
 examples/basic_usage.py
